@@ -22,8 +22,18 @@ const About = () => {
           </div>
           <div className='about-text'>
             <h2 className='about-title fs-26 ls-1'>About BookHub</h2>
-            <p className='fs-17'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus dignissimos consequuntur vero commodi provident maiores, iusto atque corrupti voluptate vel sequi consectetur unde aliquam corporis saepe animi non, tempora reiciendis molestias sed laudantium dolores. Assumenda aperiam fuga quo voluptate commodi ullam aliquam expedita voluptas delectus.</p>
-            <p className='fs-17'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, dicta, possimus inventore eveniet atque voluptatibus repellendus aspernatur illo aliquam dignissimos illum. Commodi, porro omnis dolore amet neque modi quas eum!</p>
+            <p className='fs-17'>Welcome to our Library, where knowledge comes alive and reading opens new worlds.
+
+Discover a library experience like no other, with seamless authentication options and integration with social media platforms.
+
+Explore our vast collection of books with a simple search, and find the perfect read that sparks your imagination.
+
+Our website offers a sleek and intuitive user interface, ensuring a smooth and enjoyable browsing experience.
+.</p>
+            <p className='fs-17'>
+Add your favorite books to your virtual cart with just a click, making it convenient to manage your reading list.
+
+Step into the world of our Library and let your curiosity guide you on a journey of exploration and learning</p>
           </div>
         </div>
       </div>
