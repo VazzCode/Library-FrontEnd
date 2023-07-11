@@ -1,6 +1,5 @@
 # Library management hosted link - https://ourlibrary.onrender.com
-because of some technical issues APIs are not working on this site.
-You can get the fullest of this site by hosting it in your local system.
+
 ## Here are some screenshots of the site
 
 ### Authentication page :
